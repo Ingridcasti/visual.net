@@ -1,0 +1,12 @@
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\bin\Debug\net6.0-windows\CapaEntidad.deps.json
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\CapaEntidad.vbproj.AssemblyReference.cache
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\CapaEntidad.AssemblyInfo.vb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\CapaEntidad.vbproj.CoreCompileInputs.cache
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\refint\CapaEntidad.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaEntidad\obj\Debug\net6.0-windows\ref\CapaEntidad.dll

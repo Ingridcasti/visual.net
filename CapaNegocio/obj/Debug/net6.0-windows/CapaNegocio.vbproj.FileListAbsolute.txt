@@ -1,0 +1,17 @@
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.deps.json
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\bin\Debug\net6.0-windows\Capa_Datos.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\bin\Debug\net6.0-windows\Capa_Datos.pdb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfo.vb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.vbproj.CopyComplete
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\refint\CapaNegocio.dll
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Ingrid Castillo\source\repos\Curso_Udemy_VB\CapaNegocio\obj\Debug\net6.0-windows\ref\CapaNegocio.dll
